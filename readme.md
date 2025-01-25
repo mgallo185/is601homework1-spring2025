@@ -1,3 +1,6 @@
 # homework 1 
 ## Instructions 
-installing wsl2, using my github account, make folder for the semester, make branches and merge locally and remote
+1. installing wsl2,
+2. using my github account,
+3. make folder for the semester,
+4.  make branches and merge locally and remote
